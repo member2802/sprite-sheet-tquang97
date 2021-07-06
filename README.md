@@ -79,7 +79,7 @@ The project require Python >= 3.8+ to run
 #### &ensp; FOR DEVELOPMENT:
 ##### &emsp; Step 1: Clone or Downloads the project, using this command:
 
-		 git clone https://github.com/tquang97/Sprite-Sheet
+		 git clone https://github.com/member2802/sprite-sheet-tquang97
 
 ##### &emsp; Step 2: Edit the source code as you wish.
 
