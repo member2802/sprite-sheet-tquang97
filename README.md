@@ -84,7 +84,7 @@ The project require Python >= 3.8+ to run
 ##### &emsp; Step 2: Edit the source code as you wish.
 
 ## Contact:
-&emsp;&emsp;&emsp; During the usage of the project, if you have any question, please contact me personally at INTEK HCM City or via my Github page: https://github.com/tquang97
+&emsp;&emsp;&emsp; During the usage of the project, if you have any question, please contact me personally at INTEK HCM City or via my Github page: https://github.com/member2802/
 
 ## Contributors:
 &emsp;&emsp;&emsp; tquang97 from INTEK Institute, HCM City
