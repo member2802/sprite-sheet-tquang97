@@ -71,15 +71,11 @@ Sprite (248): [(286, 378), (368, 482)] 83x105
 ## Installation:
 The project require Python >= 3.8+ to run
 
-#### &ensp; FOR USER:
-##### &emsp; In Terminal, use command:
-
-		 pip3 install spritessheettquang97
-
-#### &ensp; FOR DEVELOPMENT:
 ##### &emsp; Step 1: Clone or Downloads the project, using this command:
 
 		 git clone https://github.com/member2802/sprite-sheet-tquang97
+		 
+		 run 'pipenv shell' or 'pipenv run' to activate enviroment before execute the code
 
 ##### &emsp; Step 2: Edit the source code as you wish.
 
